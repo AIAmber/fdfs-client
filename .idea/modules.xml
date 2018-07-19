@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jar/commons-io-2.6-src/commons-io.iml" filepath="$PROJECT_DIR$/../jar/commons-io-2.6-src/commons-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fastdfs-client-java-master/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/../../fastdfs-client-java-master/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparknet-fastdfs.iml" filepath="$PROJECT_DIR$/sparknet-fastdfs.iml" />
+    </modules>
+  </component>
+</project>
